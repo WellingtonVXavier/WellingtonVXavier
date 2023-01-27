@@ -1,8 +1,8 @@
-<h2> Olá! Eu sou Wellington Vaz</h2>
+<h3> Olá! Eu sou Wellington Vaz</h3>
 <h5>
-   <p> - 🔭 Trabalho como Analista de Sistemas</p>
+   <p> - 🔭 Trabalho como Analista de Sistemas.</p>
    <p> - 👀 Sou um programador iniciante.</p>
-   <p> - 🌱 Atualmente estou aprendendo JavaScript para Frontend, TypeScript, HTML5, CSS3, C#, Angular e SQL Server.</p>
+   <p> - 🌱 Atualmente estou aprendendo JavaScript para Frontend, TypeScript, HTML5, CSS3, C# e Angular.</p>
 </h5>
 
 ##
