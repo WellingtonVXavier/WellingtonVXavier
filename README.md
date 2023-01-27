@@ -1,6 +1,6 @@
 <h2> Olá! Eu sou Wellington Vaz</h2>
 <h5>
-   <p> - 🔭 Hoje eu trabalho como Full Stack</p>
+   <p> - 🔭 Hoje eu trabalho como Analista de Sistemas</p>
    <p> - 👀Sou um programador iniciante.</p>
    <p> - 🌱 Atualmente estou aprendendo JavaScript para Frontend, TypeScript, HTML5, CSS3, C#, Angular e SQL Server.</p>
 </h5>
