@@ -50,25 +50,3 @@
 </div>
     
 ![Snake animation](https://github.com/wellingtonvxavier/wellingtonvxavier/blob/output/github-contribution-grid-snake.svg)
-   
-   
-   
-[   2 - Novo Projeto: CadastroAluno
---
-Crie um algoritmo que leia N nomes e 3 notas de cada aluno.
-A quantidade de alunos será determinada pelo usuário.
-
-Crie 3 vetores de N posições (de acordo com a qtd de alunos).
-No 1º vetor, armazene os nomes.
-No 2º vetor, armazene as médias. Ordene por ordem decrescente.
-No 3º vetor, armazene a situação: Aprovado, Reprovado ou Exame.
-
-Aprovado é a média maior ou igual a 6.
-Reprovado é a média menor que 3.
-Exame é a média entre 3 e 5.9.
-
-Exiba ao final do algoritmo o nome, média e situação de cada aluno.
-A quantidade de alunos aprovados, reprovados e em exame.](url)
-   
-   
-   
