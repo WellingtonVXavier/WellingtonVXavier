@@ -30,7 +30,7 @@
 <img align="center" alt="Wellington-Angular" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />   
 <img align="center" alt="Wellington-Csharp" height="30" width="40"
-   src="<a href="https://iconscout.com/icons/csharp" class="text-underline font-size-sm" target="_blank">Csharp</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 </div>
 
