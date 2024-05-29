@@ -15,8 +15,6 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellingtonVXavier&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 <div style="display: inline_block"><br>
-<img align="right" alt="Wellington-pic" height="150" style="border-radius:50px;"     
-   src="https://cdn.discordapp.com/attachments/1047547763572887585/1055157958733991966/IMG_0403.jpg">
 </div>
 </div>    
 <h3><b>Linguagens que trabalho!</b></h3>   
