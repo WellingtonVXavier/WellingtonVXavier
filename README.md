@@ -28,7 +28,9 @@
 <img align="center" alt="Wellington-CSS" height="30" width="40"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Wellington-Angular" height="30" width="40"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />   
+<img align="center" alt="Wellington-Csharp" height="30" width="40"
+   src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon)" />
 
 </div>
 
