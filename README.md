@@ -30,7 +30,7 @@
 <img align="center" alt="Wellington-Angular" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />   
 <img align="center" alt="Wellington-Csharp" height="30" width="40"
-   src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon)](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)" />
+   src="![image](https://github.com/WellingtonVXavier/WellingtonVXavier/assets/102739872/d06ff0b9-421b-4b3b-b652-d0cc221a70c0)" />
 
 </div>
 
