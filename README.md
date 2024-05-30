@@ -1,8 +1,8 @@
-<h3> Olá! Eu sou Wellington Vaz</h3>
+<h3>Olá! Eu sou Wellington Vaz</h3>
 <h5>
    <p> - 🖥️ Trabalho como Analista de Sistemas.</p>
-   <p> - 👀 Sou um programador iniciante.</p>
-   <p> - 📚 Atualmente estou aprendendo JavaScript para Frontend, TypeScript, HTML5, CSS3 e Angular.</p>
+   <p> - 👀 Tenho experiência com sustentação e suporte para o portal da empresa, desenvolvendo com C# e Entity Framework para BackEnd, utilizando Angular com TypeScript para FrontEnd e SQL Server para manipulação de banco de dados.</p>
+   <p> - 📚 Atualmente estou aprimorando minhas habilidades em desenvolvimento Frontend com HTML5, CSS3, JavaScript, TypeScript e Angular.</p>
 </h5>
 
 ##
