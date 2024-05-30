@@ -32,7 +32,7 @@
 <img align="center" alt="Wellington-Csharp" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img align="center" alt="Wellington-SQL" height="30" width="40"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-original.svg" />
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" />
 </div>
 
 ##
