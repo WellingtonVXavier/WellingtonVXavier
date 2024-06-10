@@ -31,6 +31,8 @@
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />   
 <img align="center" alt="Wellington-Csharp" height="30" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="center" alt="Wellington-Csharp" height="30" width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 ##
@@ -41,8 +43,6 @@
 <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
    target="_blank"></a>
 <a href = "mailto:wellingtonvxavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-   target="_blank"></a>
-<a href="https://www.linkedin.com/in/wellington-vaz-xavier-091809220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
    target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington-vaz-xavier-091809220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
    target="_blank"></a>
